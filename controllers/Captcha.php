@@ -16,7 +16,7 @@ class Captcha extends CI_Controller {
         $this->load->library('kcaptcha', null, 'captcha');
     }
 
-    function index() {
+    public function index() {
 
         $this->captcha->create();
     }
