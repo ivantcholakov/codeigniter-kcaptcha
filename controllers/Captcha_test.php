@@ -36,6 +36,8 @@ class Captcha_test extends CI_Controller {
         if ($this->form_validation->run()) {
 
             $this->session->set_flashdata('confirmation_meassage', 'You have just entered a valid captcha string. Thank you.');
+            $this->captcha->clear();
+
             redirect('captcha_test/ok');
 
         } elseif (validation_errors()) {
