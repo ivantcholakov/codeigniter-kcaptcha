@@ -26,6 +26,11 @@ Usage
 Examine code of the controller Captcha_test.php and the views captcha_test.php and captcha_test_ok.php.
 This would be enough for you to get the idea how captcha feature works.
 
+A Screenshot
+------------
+
+![KCAPTCHA Test](https://raw.github.com/ivantcholakov/codeigniter-kcaptcha/master/LOOKATME.png)
+
 License Information
 -------------------
 
