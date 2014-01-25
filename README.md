@@ -31,6 +31,11 @@ A Screenshot
 
 ![KCAPTCHA Test](https://raw.github.com/ivantcholakov/codeigniter-kcaptcha/master/LOOKATME.png)
 
+Live Demo
+---------
+
+http://iridadesign.com/starter-public-edition-4/www/playground/captcha
+
 License Information
 -------------------
 
