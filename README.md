@@ -7,7 +7,7 @@ Installation
 Download this package and uncompress it within `application/` directory of your CodeIgniter site.
 Then activate Session library/driver. GD image processing PHP module should be installed.
 
-This feature has been tested on CodeIgniter 3.0-dev (December, 2013).
+This feature has been tested on CodeIgniter 3.1.11 (September 19th, 2019).
 
 A Quick Test
 ------------
@@ -48,5 +48,5 @@ If you use this software as a part of own sofware, you must leave copyright noti
 As a default configuration, KCAPTCHA has a small credits text at bottom of CAPTCHA image.
 You can remove it, but I would be pleased if you left it. ;)
 
-Ported for CodeIgniter by Ivan Tcholakov, 2013.  
+Ported for CodeIgniter by Ivan Tcholakov, 2013-2020.  
 The demonstration code is under the MIT License, http://opensource.org/licenses/MIT
