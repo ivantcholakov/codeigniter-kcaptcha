@@ -31,11 +31,6 @@ A Screenshot
 
 ![KCAPTCHA Test](https://raw.github.com/ivantcholakov/codeigniter-kcaptcha/master/LOOKATME.png)
 
-Live Demo
----------
-
-http://iridadesign.com/starter-public-edition-4/www/playground/captcha
-
 License Information
 -------------------
 
@@ -48,5 +43,5 @@ If you use this software as a part of own sofware, you must leave copyright noti
 As a default configuration, KCAPTCHA has a small credits text at bottom of CAPTCHA image.
 You can remove it, but I would be pleased if you left it. ;)
 
-Ported for CodeIgniter by Ivan Tcholakov, 2013-2020.  
+Ported for CodeIgniter by Ivan Tcholakov, 2013-2022.  
 The demonstration code is under the MIT License, http://opensource.org/licenses/MIT
